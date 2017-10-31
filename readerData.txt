@@ -1,0 +1,5 @@
+Data for image number: 1 
+Channel Num: 1 
+Time Scale: 1 
+Z slices: 1 
+ 
