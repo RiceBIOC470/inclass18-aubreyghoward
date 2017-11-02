@@ -49,8 +49,10 @@ disp(['Radius range is: ' num2str(radiiLim(1,1)) ' and ' num2str(radiiLim(1,2))]
 [centers,radii] = imfindcircles(edge_img1,[9,25],...
     'Sensitivity',0.95);
 figure;imshow(edge_img1,[]);hold on;
-for ii = length(centers)
-    drawcircle(centers(ii,:),radii(ii),'m')
+for ii = 1:length(centers)
+    ii
+    drawcircle(centers(ii,:),radii(ii),'r')
+    hold on;
 end
 
 
