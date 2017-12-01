@@ -1,4 +1,11 @@
 % In class 18
+
+%GB comments
+1.50 I could not get your code to run on my computer. If you can show me it works on yours then I would be happy to fix this grade. 
+2. 100
+overall: 75
+
+
 clear all
 
 % Problem 1. In this directory, you will find the same image of yeast cells as you used
